@@ -1,7 +1,7 @@
 //Variables
-let maximoNumeroSecreto = 10; //cantidadNumeros();
+let maximoNumeroSecreto = 100; //cantidadNumeros();
 let numeroSecreto = 0; // generarNumeroSecreto();
-let maximosIntentos = 4; // cantidadIntentos();
+let maximosIntentos = 8; // cantidadIntentos();
 let listaNumerosYaUsado = [];
 let intentos = 1;
 function asignarTextoElemento(elemento, texto)
